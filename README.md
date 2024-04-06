@@ -3,6 +3,7 @@
 ## Importing
 
 ## jjjjj
+
 ```{r}
 st <- sta[, 3:11] # Take numeric variables as goal matrix
 library(ellipse) 
@@ -13,6 +14,8 @@ corrplot.mixed(corMatrix, order = "AOE", lower = "number", lower.col = "black",
                number.cex = 1.2, upper = "ellipse",  upper.col = col(10), 
                diag = "u", tl.pos = "lt", tl.col = "black") # Mix plots of "number" and "ellipse"
 ```
+
+
 ![image](https://github.com/hayfordosmandata/hayfordosmandata.github.io/assets/120252752/217bd2fe-6e53-446a-8aed-c236a10afadd)
 
 
