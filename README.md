@@ -11,3 +11,12 @@ corrplot.mixed(corMatrix, order = "AOE", lower = "number", lower.col = "black",
                diag = "u", tl.pos = "lt", tl.col = "black") # Mix plots of "number" and "ellipse"
 ```
 ![image](https://github.com/hayfordosmandata/hayfordosmandata.github.io/assets/120252752/217bd2fe-6e53-446a-8aed-c236a10afadd)
+
+
+```{r}
+row.names(st) <- sta$State
+stars(st, key.loc = c(20, 0.5), draw.segments = T) 
+```
+
+![image](https://github.com/hayfordosmandata/hayfordosmandata.github.io/assets/120252752/3efd9d0a-9762-479d-a5d6-3ed1aaccc04a)
+
