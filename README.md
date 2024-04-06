@@ -1,4 +1,4 @@
-
+# Economic Data Analysis
 
 ```{r}
 st <- sta[, 3:11] # Take numeric variables as goal matrix
