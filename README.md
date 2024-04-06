@@ -1,5 +1,8 @@
 # Economic Data Analysis
 
+## Importing
+
+## jjjjj
 ```{r}
 st <- sta[, 3:11] # Take numeric variables as goal matrix
 library(ellipse) 
@@ -20,3 +23,5 @@ stars(st, key.loc = c(20, 0.5), draw.segments = T)
 
 ![image](https://github.com/hayfordosmandata/hayfordosmandata.github.io/assets/120252752/3efd9d0a-9762-479d-a5d6-3ed1aaccc04a)
 
+# hhhh
+## jjj
