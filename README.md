@@ -23,5 +23,22 @@ stars(st, key.loc = c(20, 0.5), draw.segments = T)
 
 ![image](https://github.com/hayfordosmandata/hayfordosmandata.github.io/assets/120252752/3efd9d0a-9762-479d-a5d6-3ed1aaccc04a)
 
+
+
+
+
 # hhhh
+
+![image](https://github.com/hayfordosmandata/hayfordosmandata.github.io/assets/120252752/234070ec-289f-4d11-91bd-46833dd8da29)
+
+
+
 ## jjj
+
+
+
+# dkdkdk
+
+
+![image](https://github.com/hayfordosmandata/hayfordosmandata.github.io/assets/120252752/731c7960-dea4-4c33-895a-c1d07915c90a)
+
